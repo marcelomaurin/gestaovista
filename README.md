@@ -22,7 +22,6 @@ O projeto é construído com tecnologias modernas, priorizando usabilidade, segu
 - Suporte para múltiplos idiomas (incluindo português).
 
 ### Recursos Pagos
-- Integração avançada com APIs externas (ex.: Google Analytics, ERP systems).
 - Alertas em tempo real via e-mail ou notificações push.
 - Relatórios analíticos detalhados e exportação de dados.
 - Suporte prioritário e atualizações exclusivas.
@@ -33,45 +32,36 @@ Para acessar os recursos pagos, adquira uma licença premium através do nosso s
 ## Instalação
 
 1. Clone o repositório:
-git clone https://github.com/seu-usuario/gestao-a-vista.git
+git clone https://github.com/marcelomaurin/gestaovista.git
 text2. Instale as dependências (requer Node.js e Python instalados):
 cd gestao-a-vista
-npm install  # Para a aplicação web
-pip install -r requirements.txt  # Para componentes backend
-text3. Configure o ambiente:
-- Crie um arquivo `.env` com chaves de API e configurações de banco de dados.
-- Execute o script de setup: `npm run setup`.
+Baixe no bin o instalador 
+
+
 
 ## Uso
 
 ### Protetor de Tela para PC
-- Execute o aplicativo: `npm run screensaver`.
-- Configure métricas via interface web.
+No windows selecione o protetor protetortela, e defina no seu computador
 
 ### Aplicação de Visualização para TVs
-- Inicie o servidor: `npm run tv-app`.
-- Acesse via IP da rede em uma TV conectada.
+- Instale o APK em sua televisão 
+
 
 ### Aplicação Web de Gestão
-- Inicie o servidor: `npm run start`.
-- Acesse em `http://localhost:3000` e faça login.
+Entre no site https://maurinsoft.com.br/gestaovista/
 
-Para mais detalhes, consulte a documentação em `/docs`.
+
+Para mais detalhes, consulte a documentação em `https://maurinsoft.com.br/wp/`.
 
 ## Contribuição
+Entre em contato. 
+marcelomaurinmartins@gmail.com
 
-Contribuições são bem-vindas! Siga estes passos:
-1. Fork o repositório.
-2. Crie uma branch: `git checkout -b feature/nova-funcionalidade`.
-3. Commit suas mudanças: `git commit -m 'Adiciona nova funcionalidade'`.
-4. Push para a branch: `git push origin feature/nova-funcionalidade`.
-5. Abra um Pull Request.
-
-Por favor, leia o [Código de Conduta](CODE_OF_CONDUCT.md) antes de contribuir.
 
 ## Licença
 
-Este projeto é licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto é licenciado sob a MIT License.
 
 ## Contato
 
